@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dreadfull character of a drunkard. Or, the odious and beastly sin of drunkenness described and condemned Shewing the fearful judgements that have befallen notorious drunkards: with brief exhortations to perswade men from that swinish and abominable sin.</title>
+            <author>Hart, John, D.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45712</idno>
+            <idno type="STC">Wing H943A</idno>
+            <idno type="STC">ESTC R215880</idno>
+            <idno type="EEBO-CITATION">99827638</idno>
+            <idno type="PROQUEST">99827638</idno>
+            <idno type="VID">32061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45712)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32061)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1849:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dreadfull character of a drunkard. Or, the odious and beastly sin of drunkenness described and condemned Shewing the fearful judgements that have befallen notorious drunkards: with brief exhortations to perswade men from that swinish and abominable sin.</title>
+                  <author>Hart, John, D.D.</author>
+                  <author>Jones, Andrew, M.A., attributed name.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The tenth edition, by Andrew Jones, a lover of sobriety.</edition>
+               </editionStmt>
+               <extent>[24] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for Eliz. Andrews, at the White Lion near Pye-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Hart. Cf. Wing. Often attributed to Andrew Jones, M.A.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Running title reads: The dreadful character of a drunkard.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drinking of alcoholic beverages --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32061:1" rendition="simple:additions"/>
+            <p>The Dreadfull Character of a DRUNKARD. Or, the moſt odious and beaſtly Sin of DRUN<g ref="char:EOLhyphen"/>KENNESS deſcribed and condemned. Shewing the fearful Judgements that have befallen notorious Drunkards: with brief Exhortations to perſwade men from that Swiniſh and abominable Sin.</p>
+            <p>The tenth Edition, by <hi>Andrew Jones,</hi> a lover of Sobriety</p>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 6.10.</hi>
+               </bibl>
+               <p>Drunkards ſhall not inherit the Kindome of Heaven.</p>
+            </q>
+            <figure/>
+            <p>
+               <hi>London,</hi> Printed for <hi>Eliz. Andrews,</hi> at the White Lion near <hi>Pye-Corner.</hi> 1663.</p>
+            <pb facs="tcp:32061:2" rendition="simple:additions"/>
+            <pb facs="tcp:32061:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32061:3"/>
+            <head>Courteous Reader.</head>
+            <p>THere is lately publiſhed an excellent and profitable Sermon, called, The Chriſtians bleſſed Choice. Likewiſe Chriſts firſt Sermon. Alſo Chriſts laſt Sermon: And the Chriſtians beſt Gar<g ref="char:EOLhyphen"/>ment. Alſo Heavens Glory, and Hells Horror. And the School of Grace. Alſo, A warning-piece to the Sloathful, Idle, Careleſs, Drunken, and Se<g ref="char:EOLhyphen"/>cure Ones of theſe laſt and worſt of times. Very godly Books, and are but three pence price.</p>
+            <p>Likewiſe,
+<list>
+                  <item>1. Englands Faithful Phyſician.</item>
+                  <item>2. Dooms-day at hand.</item>
+                  <item>3. The dreadful character of a drunkard.</item>
+                  <item>4. The Fathers laſt Bleſſing to his children.</item>
+                  <item>5. The ſin of Pride arraigned and condemned.</item>
+                  <item>6. The Plain Mans Plain Path-way to Heaven.</item>
+                  <item>7. The Black Book of Conſcience.</item>
+                  <item>8. Peters Sermon of Repentance.</item>
+                  <item>9. The Charitable Chriſtian.</item>
+                  <item>10. Death Triumphant.</item>
+               </list>
+            </p>
+            <p>All very neceſſary for theſe licentious times, and each of them being but of two pence price. They are to be ſold by <hi>Elizabeth Andrews,</hi> at the White Lion near <hi>Pye-Corner.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32061:3" rendition="simple:additions"/>
+            <head>The Dreadfull Character and Condition of a DRUNKARD.</head>
+            <epigraph>
+               <q>
+                  <bibl>Habakkuk 2.15, 16.</bibl>
+                  <p>Wo to him that giveth his neighbour drink, that putteſt thy bottle to him, and makeſt him drunken alſo, that thou mayeſt look on his nakedneſs.</p>
+                  <p>Thou art filled with ſhame for glory, drink thou alſo, and let thy foreskin be uncovered; the cup of the Lords right hand ſhall be turned unto thee, and ſhameful ſpewing ſhall be on thy glory.</p>
+               </q>
+            </epigraph>
+            <p>THe Prophet <hi>Habakkuk</hi> in the foregoing verſes of this chapter, having denoun<g ref="char:EOLhyphen"/>ced ſeveral woes againſt ſeveral evils and reigning ſins, as cruelty &amp; covet<g ref="char:EOLhyphen"/>ouſneſs, he coms here in this verſe to denounce a ſad woe againſt that moſt odious and abomi<g ref="char:EOLhyphen"/>nable ſin of Drunkenneſs; a ſin too too much abounding in theſe our dayes. <hi>Woe</hi> (ſaith the Prophet) <hi>to him that giveth his neighbour drink.</hi> The word in the original is, <hi>Wo to him that drin<g ref="char:EOLhyphen"/>keth to his neighbour;</hi> that is, with an intent to make him drunk, as the following words do de<g ref="char:EOLhyphen"/>clare,
+<pb facs="tcp:32061:4"/>
+               <hi>That putteſt thy bottle to him, and makeſt him drunk alſo:</hi> The word in the original is, <hi>that putteſt thy poiſon to him;</hi> diſcovering to us the great evil that is in overmuch drinking, it poiſons the ſoul, and makes the whole man un<g ref="char:EOLhyphen"/>ſerviceable both to God and man.</p>
+            <p>Now that I may diſcover unto you the odi<g ref="char:EOLhyphen"/>ouſneſs of this beaſtly, ſwiniſh, and abominable ſin of Drunkenneſs, I ſhall firſt ſet forth unto you the nature and condition of this filthy evil, and thereby ſhew you what it is: in the next place (God willing) I ſhall endeavour to ſet forth unto you the odiouſneſs of this beaſt-like ſin; and then give you ſome further diſcoveries thereof, in ſhewing you, Firſt, how this ſin of Drunkenneſs is hurtful both to our own and other mens ſouls. <hi>2.</hi> How it is offenſive and diſpleaſing to God, and odious to good men. And then <hi>3.</hi> I ſhall ſhew you how it wounds and deſtroyes both our good names, our credit, our eſtates, yea, our all in this life, yea, and (without the great mercy of God) how it will bring everlaſting horror and confuſion upon us both in ſoul and body to all eternity in the life to come. And then fourthly and laſtly, I ſhall give you ſome few (but fearful Examples) of Gods heavy wrath and vengeance executed up<g ref="char:EOLhyphen"/>on notorious Drunkards even in this life, and ſo conclude in a word or two of Exhortation.</p>
+            <pb facs="tcp:32061:4"/>
+            <p>Drunkenneſs is a flattering devil, a ſweet poiſon (as one ſaith) and a delightſom ſin, which who ſo delighteth himſelf in, is not himſelf, but a common ſhame even to nature it ſelf, and perpetual diſgrace to mankinde.</p>
+            <p>And men may be ſaid to be guilty of drunk<g ref="char:EOLhyphen"/>enneſs, when they take in either wine or ſtrong drink beyond meaſure, ſo as there follows an intoxication of the powers of the ſoul; and this Drunkenneſs is a ſin that procures miſerable plagues and ſorrows both to the ſoul and to the body, inflaming the blood with unnatural heat, from whence comes Dropſies, Conſumptions, and cold diſeaſes, with untimely deaths: ſo that many by drinking Healths to others, have drank away health from themſelves; a moſt abominable practice.</p>
+            <p>Secondly, drunkenneſs confounds the memo<g ref="char:EOLhyphen"/>ry, dulls the underſtanding, diſtempers the bo<g ref="char:EOLhyphen"/>dy, defaceth beauty, &amp; hurts the minde: for the heat and brain being the mediate inſtruments of the ſoul, and by drinking diſtempered and in<g ref="char:EOLhyphen"/>flamed, and thereupon ariſeth wicked imagina<g ref="char:EOLhyphen"/>tions, diſordered and unruly affections; from whence alſo cometh ſtinking breaths, redneſs of eyes, weakneſs, woes, ſorrows, wounds, and contentions, and ſuch like, being the fruits thereof, as <hi>Solomon</hi> ſaith, <hi>Pro. 23, 29 30.</hi> In the <hi>29.</hi> ver ſaith he, <hi>Who hath woes? who hath ſor<g ref="char:EOLhyphen"/>row?
+<pb facs="tcp:32061:5"/>who hath contention? who hath bablings? who hath wounds without cauſe? who hath redneſs of eyes? They</hi> (ſaith he, v. <hi>30.</hi>) <hi>that tarry long at the wine, they that go to the mixt wine.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> Drunkenneſs corrupteth the blood, drown<g ref="char:EOLhyphen"/>eth the ſpirits, and beggars the purſe. <hi>The Drunkard</hi> (ſaith <hi>Solomon, Prov. 23.21.</hi>) <hi>ſhall come to poverty.</hi> And further, it inricheth the carkaſs with Surfets and Dropſies, and turns the very Blood into water, and the very Soul into froth, ſwiniſhly diſanimating the underſtanding pow<g ref="char:EOLhyphen"/>er of the ſame.</p>
+            <p n="4">
+               <hi>4.</hi> Drunkenneſs cauſeth vomiting and filthi<g ref="char:EOLhyphen"/>neſs, of which the Lord himſelf complains by the Prophet <hi>Iſaiah, Chap. 21.7, 8.</hi> ſpeaking of the Prieſts, he ſaith, <hi>They alſo have erred through wine, and through ſtrong drink are they out of the way; the Prieſts &amp; the Prophets have erred through ſtrong drink, they are ſwallowed up of wine, they are out of the way through ſtrong drink, they erre in viſion, they ſtumble in judgement. For all tables are full of vomit and filthineſs, ſo that there is no place clean.</hi>
+            </p>
+            <p>Now the evil of this abominable ſin of drun<g ref="char:EOLhyphen"/>kenneſs I ſhall here ſet forth unto you in theſe three things, Firſt, as it reſpects God. <hi>2.</hi> As it reſpects other men. <hi>3.</hi> As it reſpects the drun<g ref="char:EOLhyphen"/>kards themſelves. And firſt, as it reſpects God, and ſo the ſin of drunkennes makes men forget
+<pb facs="tcp:32061:5"/>God and his laws, <hi>Hoſ. 13.5, Prov. 31.4, 5.</hi> ſaith <hi>Solomon, drinking of wine and ſtrong drink makes men forget both the laws of God and man. 2.</hi> Drunkenneſs is Idolatry, it ſets up another God, which is a moſt notorious ſin, <hi>Phil. 3.19. Whoſe God is their belly,</hi> ſaith the Apoſtle, The Babylonians had <hi>Bell</hi> for their God, a God of Braſs, but drunkards and gluttons make their Bellies their gods, gods of fleſh; their whole thoughts, cares, and endeavours, are onely to pleaſe their bellies, their whole courſe of their life is nothing elſe but a filthy delight in drink<g ref="char:EOLhyphen"/>ing and ſwilling to pleaſe their baſe luſts: they are Belly-gods which love good liquors, who ſerve their Bellies; as St. <hi>Paul</hi> ſaith, <hi>Rom. 16.11.</hi> The Rabbins were uſed to ſay, that he was a Belly-god that drank a quart of Wine. We have many ſuch amongſt us, and do not they that drink healths upon their knees ſacri<g ref="char:EOLhyphen"/>fice it to thoſe they drink to, and thereby make gods of them. <hi>3.</hi> Drunkards abuſe the good creatures of God, which they ſhould uſe to the honour and glory of God; theſe they abuſe in the maintenance, pleaſing, and pampering of their own baſe ſenſual Luſts and pleaſures, which are bitter enemies to God and his truth, and ought to be mortified, <hi>1 Cor. 10.31.</hi> ſaith S. <hi>Paul, Whether ye eat or drink, and whatever ye do, do all to the glory of God.</hi> What glory hath
+<pb facs="tcp:32061:6"/>the Lord when men make ſwill-tubs of their bellies, and ſo over-ſatisfie themſelves with drinking, that they are unfit for motion, either for God or men, and fit for nothing but to ſléep? <hi>4.</hi> Drunkenneſs is a ſacrilegious robbing of God of his Worſhip. You know we are com<g ref="char:EOLhyphen"/>manded to honour the Lord our God, and to ſerve him with all out hearts, and with all our might, and with all our ſtrength; but when men have over-cram'd themſelves with meat, and over-liquored their filthy Carcaſſes with inordinate drinking; how unfit then are theſe men thus diſtempered with drink for the wor<g ref="char:EOLhyphen"/>ſhip and ſervice of God? their heads are either too heavy or too light, and their hearts are dull and drowſie, and God may have the drunken carkaſſes, but as for their hearts and ſpirits, they have none then for God; they are then fit for nothing but the devils drudgery, <hi>Hoſ. 4.11.</hi> There the Prophet ſaith, <hi>Wine and new wine take away the heart;</hi> exceſs or overmuch either in eating or drinking, cauſes defects in the ſer<g ref="char:EOLhyphen"/>vice of God: and as for ſuch perſons, God may have a little bodily worſhip and lip-labor from them, a few drowſie ſleepy performances; but as for ſpiritual heavenly ſervice and worſhip, that is not to be had of them, though the Lord be a Spirit, moſt Wiſe, moſt Holy, moſt Great, and moſt Glorious, who will be worſhipped,
+<pb facs="tcp:32061:6"/>if acceptably, in Spirit and in Truth.</p>
+            <p>Secondly, for the evil of drunkenneſs, as it reſpects others. Firſt of all, drunkenneſs makes men forget the condition of others; thoſe that give themſelves to this evil of Drunkenneſs minde not at all the eſtate or condition either of Church or State, let come what will come ſo they may have drink enough, their pipes and their pots, it matters not what becomes of other. The Prophet ſaith, <hi>Amos 6.4, 5, 6. They eat the lambs out of the flock, and calves out of the midſt of the ſtalls, they drink wine in bowls, and anoint themſelves with chief ointments; but they are not grieved for the afflictions of Joſeph.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> Drunkenneſs doth excéedingly wrong and impoveriſh the poorer ſort: drunkards and glut<g ref="char:EOLhyphen"/>tons are like caterpillers and locuſts, which de<g ref="char:EOLhyphen"/>vour that which ſhould maintain and relieve other: did not men exceed ſo much in eating and drinking as they do, there would be more plenty, and more cheapneſs, and more relief for the poor then there is; for one drunken beaſt devours more then would very well refreſh and ſatisfie a hundred poor people that lie in want and miſery. I dare confidently aver it for truth and I do verily believe it, that if the poor might have but one quarter of what is ſpent ſinfully, and ſuperfluouſly in rioting and drunkenneſs, I believe, nay, I am confident, I ſay, that we
+<pb facs="tcp:32061:7"/>ſhould ſée no Beggars in our ſtréets, nor hear any to complain for want of bread at our doors. <hi>There is a generation,</hi> (ſaith <hi>Solomon, Pro. 30.14.) whoſe teeth are as ſwords, and their jaw-teeth like Knives, to devour the poor from oft the earth, and the needy from among men.</hi> And ſuch are the téeth and jaw-téeth of drunkards and gluttons; they make both bread and drink dear. <hi>3.</hi> Drun<g ref="char:EOLhyphen"/>kards wrong the chaſtity of others: who make more luſtful attempts, or commit more fouler acts of uncleanneſs, then thoſe that delight themſelves in drunkenneſs? Fulneſs of drink bréeds fulneſs of ſin and fulneſs of luſt; intem<g ref="char:EOLhyphen"/>perancy begets incontinency, and after rioting and drunkenneſs, follows chambring and wan<g ref="char:EOLhyphen"/>tonneſs, <hi>Rom. 13.13.</hi> When <hi>Lot</hi> was filled with wine, then was he fit for inceſt, <hi>Gen. 19.31, 32, 33.</hi> And the drunken Sodomites, of whom the Text ſpeaks, were guilty of moſt horrible un<g ref="char:EOLhyphen"/>cleanneſs. <hi>4.</hi> Drunkenneſs gives evil exam<g ref="char:EOLhyphen"/>ples to others, they draw in others to follow their own moſt evil and abominable filthy pra<g ref="char:EOLhyphen"/>ctice to intemperancy, in eating and drinking, which is a very great evil, <hi>1 Pet. 4.14. They think it ſtrange</hi> (ſaith the Apoſtle) <hi>that you run not with them to the ſame exceſs of riot.</hi> There is a very great inclination in the hearts of men na<g ref="char:EOLhyphen"/>turally to follow others in eating and drinking exceſſively; they will not onely go, but run to
+<pb facs="tcp:32061:7"/>it; a little invitation will ſerve the turn, they need not to be asked twice: therefore <hi>Solomon</hi> counſelleth his ſon, <hi>Prov. 22.20.</hi> not to keep com<g ref="char:EOLhyphen"/>pany with wine-bibbers. One drunkard poiſons another with his ſin, and men are as it were poiſoned by the evil examples of others. <hi>5.</hi> This abominable ſin of Drunkenneſs brings down heavy Iudgments from God, <hi>Iſa. 5.12, 13.</hi> there the intemperancy of the people is firſt ſet down, and then the Iudgements that followed thereupon: <hi>They roſe up early, and ſate up late to follow after ſtrong drink,</hi> as too too many now adays do; from the bed to the Alehouſe, &amp; from the Alehouſe to bed again: but verſe <hi>13.</hi> be<g ref="char:EOLhyphen"/>hold the Iudgements of the Lord upon them; <hi>Therefore ſaith the Lord</hi> (becauſe of their exceſ<g ref="char:EOLhyphen"/>ſive drinking) <hi>my people are gone into captivity, becauſe they have no knowledge.</hi> Their Gluttony and drunkenneſs made them both ſenſeleſs and ſenſual, &amp; their honourable men are famiſht, &amp; their multitude is dried up with thirſt: a moſt ſad (but ſuitable) judgement. So likewiſe <hi>Bel<g ref="char:EOLhyphen"/>ſhazzar,</hi> he feaſts and revels with a thouſand of his Lords; and that very night when he was in the midſt of his jollity, he was deprived of his Kingdom, and himſelf alſo ſlain; as you may ſée <hi>Daniel 5.</hi> He drank Wine and praiſed the Gods of Silver, and Gold, of Wood, and of Braſs, and that very night did the Lord cut him
+<pb facs="tcp:32061:8"/>off, So <hi>2 Sam. 13. Amnon</hi> being drunk was ſlain by <hi>Abſaloms</hi> ſervants. Through drunken<g ref="char:EOLhyphen"/>neſs <hi>Benhadad</hi> with <hi>32.</hi> other Kings were by the Iſraelites overcome, <hi>1 Kings 20.11.</hi> So likewiſe <hi>David,</hi> a man after Gods own heart, <hi>2 Sam. 11.13.</hi> made <hi>U<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iah</hi> drunk, thinking there<g ref="char:EOLhyphen"/>by to have covered his horrid ſin of Adultery, for the which he ſorely ſmarted afterwards. So <hi>Herod, Mat. 14.</hi> in his drunken banquet cau<g ref="char:EOLhyphen"/>ſed <hi>John</hi> the Baptiſt to be beheaded; and what became of him, he was depoſed, and dyed miſer<g ref="char:EOLhyphen"/>ably in his exile. So the Iews, <hi>Iſa. 5.</hi> drunk till they were thirſty, and then Hell was prepared for them. Through drunkenneſs even righteous <hi>Lots</hi> daughters lay with their father, &amp; ſo two curſed Nations ſprang from their loins, <hi>Gen. 19.31.</hi> Through drunkenneſs <hi>Nabals</hi> heart dyed within him, <hi>1 Sam. 25.36.</hi> Through drunkenneſs the Philiſtines (<hi>Judges 16.25.</hi> making ſport to themſelves with poor <hi>Sampſon</hi>) had the houſe pulled down about their ears.</p>
+            <p>Thirdly, the evil of this moſt odious ſin of drunkennes, as it reſpects the drunkards them<g ref="char:EOLhyphen"/>ſelves, conſiſts in theſe five things.
+<list>
+                  <item>
+                     <hi>1.</hi> It hurts their ſouls.</item>
+                  <item>
+                     <hi>2.</hi> Their bodies.</item>
+                  <item>
+                     <hi>3.</hi> The whole man.</item>
+                  <item>
+                     <hi>4.</hi> It impoveriſheth their eſtates. And</item>
+                  <item>
+                     <hi>5.</hi> it diſ<g ref="char:EOLhyphen"/>graces their names, and ſtaineth their credit even in the world.</item>
+               </list>
+            </p>
+            <p>And firſt, for the ſoul, drunkenneſs clouds and
+<pb facs="tcp:32061:8"/>infatuates the underſtanding, blindes the mind, and beſots the ſpirits, <hi>Iſa. 21.7. The Prieſts &amp; the Prophets erred through wine, and through ſtrong drink were they out of the way; the erre in viſi<g ref="char:EOLhyphen"/>on, and ſtumble in judgement.</hi> Drunkards drown both their wits and their ſenſes in the Ale-tubs. <hi>2.</hi> Drunkenneſs diſorders the Affections; by overmuch drinking the government of Reaſon is laid aſleep: and ſo the affections grow diſor<g ref="char:EOLhyphen"/>derly, &amp; then wanton luſts, laſcivious thoughts and deſires travel up and down the Region of the Soul, and over-power and diſorders the af<g ref="char:EOLhyphen"/>fections, <hi>2 Pet. 2.13, 14. 3.</hi> Drunkenneſs hin<g ref="char:EOLhyphen"/>ders the activity of gifts and graces in the ſoul: when a man is over-laden with any burden he cannot move nimbly; ſo when men have over-laden themſelves with too much drink, more then they can well bear, they are altogether unfit for ſervice either for God or man; they are then fit for nothing but to ſleep.</p>
+            <p n="2">
+               <hi>2.</hi> Drunkenneſs is hurtful for the bodies of men: overmuch and exceſſive drinking bring<g ref="char:EOLhyphen"/>eth ſickneſs, and is deſtructive to health<g ref="char:punc">▪</g> almoſt all the diſeaſes which men have, come from the abundance of ill humours in the body, and from whence comes theſe ill humours, but from in<g ref="char:EOLhyphen"/>temperancy either in eating or drinking: take men that are moderate and ſparing in the uſe of the Creatures, and they are ſeldom troubled
+<pb facs="tcp:32061:9"/>with any diſeaſe. Sobriety is the beſt friend <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> health, and a greater enemy it hath not the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drunkenneſs, <hi>1 Cor. 11, 29, 30.</hi> The Corinthi<g ref="char:EOLhyphen"/>ans were exceſſive in their eating and drinking and what ſaith S. <hi>Paul</hi> of them? <hi>For this cauſe</hi> (ſaith he) <hi>ver. 30) many among them were ſick and weak.</hi> So <hi>Hoſ. 7.5. With bottles of wine the Princes had made the King ſick.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> Drunkenneſs is hurtful to the whole man, as <hi>1</hi> by drunkennes a man is brought into bon<g ref="char:EOLhyphen"/>dage under the Creatures which God hath gi<g ref="char:EOLhyphen"/>ven him, if he had grace to uſe them aright, do<g ref="char:EOLhyphen"/>minion over them. Drunkards are under the ty<g ref="char:EOLhyphen"/>rany &amp; bondage of their pots and cups, they are ſlaves to their drink. <hi>2.</hi> By drunkenneſs men become worſe then the very beaſts; the bruit creatures all, unleſs dogs or ſwine, will nei<g ref="char:EOLhyphen"/>ther eat nor drink more then what ſerves to ſa<g ref="char:EOLhyphen"/>tisfie nature, neither can you perſwade or force them to take more; But drunkards they drink not to ſatisfie, but to ſurfeit nature, <hi>Prov. 23.35.</hi> When the Drunkard was beaten he felt it not. Drunkenneſs bereaves men even of common ſenſe: The horſe and the Aſs may teach the drunkards wit, if they had but grace to conſider when they are ſober. <hi>3.</hi> Drunkenneſs haſtens death. Many I am perſwaded might have lived longer, if they had lived more ſoberly: drun<g ref="char:EOLhyphen"/>kenneſs ſhortens mens dayes. Drunkards drink
+<pb facs="tcp:32061:9"/>healths to others, but drink away health from themſelves. Many dye by the Sord, but many more by ſurfeiting and drunkenneſs: the Co<g ref="char:EOLhyphen"/>rinthians exceſs in drinking ſent many of them to their long homes, <hi>2 Cor. 11.30.</hi> Drunkenneſs either abreviates or takes away the lives of men: How many have come to untimely ends in their drink? how many are there too too often killed by men in their drink, and deſtroyed; one Drunkard kills another when he is drunk, and ſo brings himſelf to the Gallows when he is ſo<g ref="char:EOLhyphen"/>ber. How many Caſualties do there daily hap<g ref="char:EOLhyphen"/>pen to men in their drink? Many a Drunkard hath killed himſelf in his drink: ſome I know that have drowned themſelves in their drink: and others by falling have broke their necks in their drink as they were going home. Drink makes men deſperate and valiant for the De<g ref="char:EOLhyphen"/>vil, but if they repent not, they ſhall wiſh they had béen more ſober when they are in hell. <hi>4.</hi> Drunkenneſs makes men very ſecure and fear<g ref="char:EOLhyphen"/>leſs. <hi>Come</hi> (ſaid thoſe Drunkards in the Pro<g ref="char:EOLhyphen"/>phet) <hi>we will fill our ſelves with ſtrong drink, and to morrow ſhall be as this day, and much more abundant.</hi> Drunkards do not conſider that when they are at their Cups, they are at the Devils work, and dancing about the very brink of hell. Ships that are heavy laden ſink deep into the Water, but it over-laden they drown them<g ref="char:EOLhyphen"/>ſelves;
+<pb facs="tcp:32061:10"/>ſo men that are over-laden with drink<g ref="char:punc">▪</g> ſink déep into the ſea of carnal ſecurity, and for ever hazard the drowning of their ſouls in hell. <hi>Luke 21.34, 35.</hi> ſaith our Saviour, ſpeaking of the end of the world; <hi>If your hearts be over-char<g ref="char:EOLhyphen"/>ged with ſurfeiting &amp; drunkenneſs, that day will come upon you unawares, even ſuddenly as a ſnare. 5.</hi> Drunkenneſs is ſuch a ſin as indangers mens eternal eſtates hereafter: yea, and cer<g ref="char:EOLhyphen"/>tainly without repentance, excludes men from coming to heaven. <hi>Be not deceived</hi> (ſaith the Apoſtle, <hi>1 Cor. 6.9, 10.) neither fornicators, nor adulterers, nor thieves, nor covetous nor drunk<g ref="char:EOLhyphen"/>ards ſhall inherit the kingdom of God.</hi> The rich Glutton you know, <hi>Luke 16.</hi> was caſt into hell, that was his portion. The Apoſtle ſaith, <hi>Gal. 5.21. They that do ſuch things ſhall not inherit the kingdom of heaven.</hi> What things? <hi>Why drun<g ref="char:EOLhyphen"/>kenneſs and revillings;</hi> which ſaith the Apoſtle, are fruits of the fleſh, and without repentance, will for ever caſt mens ſouls into hell: for no drunkard that lives and dyes in his ſins, ſhall ever inherit the kingdom of heaven.</p>
+            <p n="4">
+               <hi>4.</hi> This curſed filthy ſin of drunkenneſs de<g ref="char:EOLhyphen"/>ſtroyes the eſtates of men; it conſumes them to nothing, as <hi>Solomon</hi> ſaith, <hi>Pro. 23.31. The drun<g ref="char:EOLhyphen"/>kard and the glutton ſhall come to poverty, and drowſineſs ſhall clothe a man with rags</hi> Many by drunkenneſs &amp; gluttony, rioting and revilling
+<pb facs="tcp:32061:10" rendition="simple:additions"/>in their youth have brought themſelves to ex<g ref="char:EOLhyphen"/>tream poverty in their age; many in their youthful dayes have ſo conſumed their Eſtates in pleaſing and pampering their luſtful appe<g ref="char:EOLhyphen"/>tites with Drink, that in their old age they wanted a piece of bread to eat; and then inſtead of feaſting and rioting, they have been forced for want to faſt and lament for their firſt abuſe of the good creatures of God. The Prodigals exceſs among the Harlots brought him to want among the Swine. <hi>He,</hi> ſaid <hi>Solomon, Pro. 21.17. that loveth wine and oyl ſhall not be rich;</hi> that is, he that loveth and delighteth in them exceſ<g ref="char:EOLhyphen"/>ſively ſhall never be rich, but ſhall come to poverty.</p>
+            <p n="5">
+               <hi>5.</hi> Drunkenneſs wrongs both the names and profeſſions of men; intemperance brings an ill report upon men. <hi>Noahs</hi> Drunkenneſs was a great diſgrace unto him. <hi>Prov. 28.7.</hi> ſaith <hi>So<g ref="char:EOLhyphen"/>lomon, He that is a companion of riotous men, ſhameth his father;</hi> and if it be ill then to be com<g ref="char:EOLhyphen"/>panions of ſuch perſons, how ill is it then to be a drunken perſon? Drunkards ſhame both themſelves &amp; their fathers, of whom men may ſay, and that truly, That he is a Belly-god, a méer toſs-pot. The Prophet ſaith, <hi>Iſa. 28.28. All tables are full of vomit and filthineſs; ſo that there is no place clean:</hi> what a diſgrace was this to thoſe Prophets and Prieſts? Drunkenneſs is
+<pb facs="tcp:32061:11"/>a night work: <hi>They that are drunken</hi> (ſaith the Apoſtle, <hi>1 Theſ. 5.7.) are drunken in the night;</hi> it is a work of darkneſs, and it needs muſt diſ<g ref="char:EOLhyphen"/>grace a man. Who will believe or give credit to what a drunken man ſays. I beſéech you then in the name of Chriſt, and as you love your own ſouls, your goods, and good name, take heed of this beaſtly ſin, and avoid it: as our Saviour ſaith, <hi>Luke 21.34. Take heed</hi> (ſaith he) <hi>to your ſelves, leſt at any time your hearts are overcharged with ſurfeiting and drunkenneſs. Let us</hi> (as the Apoſtle ſaith, <hi>Rom. 13.13.) walk honeſtly as in the day, not in rioting and drunkenneſs;</hi> let us not be intemperate: why ſhould we pamper up and pleaſe our vile bodies, which muſt ſhortly dye and become meat for the worms. The Apo<g ref="char:EOLhyphen"/>ſtles rule is, <hi>Make no proviſion for the fleſh to fulfill the luſts thereof.</hi>
+            </p>
+            <p>I ſhall now briefly ſhow you ſome few, but fearful Examples of Gods judgements execu<g ref="char:EOLhyphen"/>ted upon notorious Drunkards, and ſo I ſhall conclude.</p>
+            <p>On the eighth of <hi>February,</hi> in the Year 1578. a company of Drunkards, whoſe name are re<g ref="char:EOLhyphen"/>corded as followeth: <hi>Adam Gibbens, George Keepel, John Keyſel, Peter Hordroff, John War<g ref="char:EOLhyphen"/>ner, Simon Heamkers, Jacob Hermons, Hermon Frow.</hi> Theſe eight Drunkards, in contempt of the bleſſed Sabbath, agreed to go to the Ta<g ref="char:EOLhyphen"/>vern
+<pb facs="tcp:32061:11"/>on the Lords Day to be merry; and com<g ref="char:EOLhyphen"/>ing to the houſe of one <hi>Anthony Hodge,</hi> and ho<g ref="char:EOLhyphen"/>neſt godly man, they called for burnt wine, ſack, claret, &amp; what not; the good man refuſing to give them any, adviſed them to go to Church to hear the word of God: but they all ſave <hi>Adam Gib<g ref="char:EOLhyphen"/>bens</hi> refuſed: ſaying, They loathed that exer<g ref="char:EOLhyphen"/>ciſe. Whereupon the Hoaſt departed, who be<g ref="char:EOLhyphen"/>ing gone to Church, they began to curſe &amp; ban, wiſhing he might break his neck ere he return<g ref="char:EOLhyphen"/>ed: and wiſhing the Devil might break their necks if they went from thence till they had ſome wine: whereupon the Devil in the like<g ref="char:EOLhyphen"/>neſs of a young man appeared unto them, bring<g ref="char:EOLhyphen"/>ing in his hand a flaggon of wine, and ſo drank unto them; ſaying, <hi>Good Fellows be merry, you ſhall have wine enough, you ſeem luſty lads, and I hope you will pay me well:</hi> who anſwering, ſaid, <hi>They would either pay him, or ingage their necks for it; yea, rather then fail, their bodies and ſouls:</hi> thus thoſe men continued drinking and ſwilling ſo long till they could hardly ſee one another: at laſt the Devil their Hoſt told them, that now they muſt pay for all, at which their hearts war<g ref="char:EOLhyphen"/>ed cold; but the Devil bid them be of good chear, for now they muſt drink fire and brim<g ref="char:EOLhyphen"/>ſtone with him, in the pit of hell for ever. At which they Devil brake their necks aſunder and deſtroyed them. And thus ended theſe Drun<g ref="char:EOLhyphen"/>kards
+<pb facs="tcp:32061:12"/>their miſerable dayes: which may ſerve for a Caveat for all drunkards for ever.</p>
+            <p>Another example of Gods Iudgements was ſhewed upon two Drunkards at a place called <hi>Almain</hi> on the fourth of <hi>July, 1508,</hi> the truth whereof is as followeth. Two drunkards com<g ref="char:EOLhyphen"/>ing into a Tevern, called for wine, which they preſently had of the beſt; but they diſliking it for the newneſs of it, demanded better: ſo they had ſtore of old and new, where they ſate ſwil<g ref="char:EOLhyphen"/>ling &amp; drinking until they were both as drunk as dogs: then one of them began a carowſing cup to his fellow, who pledging him, asked who he ſhould drink to: (Quoth this wretched Drunkard) <hi>why, drink to God:</hi> upon which he drank a whole Carouſe, and pouring out, he asked his drunken companion, which wine God ſhould drink; who ſaid of either, of which he would; then having filled up his cup with new Wine, he held up his hand over his head, as though God ſhould have pledged him indeed; wretchedly ſpeaking theſe blaſphemous words: <hi>God</hi> (ſaith he) <hi>I would know what Wine thou loveſt: this new wine is good enough, and too good for thee; if thou hadſt ſent better, better thou ſhouldeſt have had: but ſuch as it is, take it, and carouſe it off.</hi> But behold the dreadful Iudge<g ref="char:EOLhyphen"/>ment of God preſently executed upon this filthy wretch: for having thus ſtretcht forth his hand,
+<pb facs="tcp:32061:12"/>the Lord by his mighty power cauſed it to ſtand ſo ſtedfaſt, that the wretched man could not pull it in again, nor ſtir his body from the place where he ſtood; where for a while he ſtood in a moſt fearful manner, his countenance look<g ref="char:EOLhyphen"/>ing moſt ghaſtly and fearful to behold; for he ſeemed to be alive but ſtirred not: after which the people ſought to remove him, but could not; then they tied horſes to him to remove him, but could not; then they aſſayed to burn him, houſe and all, but no fire would take hold of it: At which they concluded, that God had made him a fearful example, and a perpetual ſpectacle to all notorious drunkards for ever. And in this very place and manner as you have heard, ſtandeth this blaſphemous drunkard to this very day; the other drunkard his companion upon this, they hanged upon a Gibbet before the the door of the ſaid houſe. Thus hath the Lord in all ages manifeſted his ſore diſpleaſure againſt this no<g ref="char:EOLhyphen"/>torious beaſtly ſin of drunkenneſs.</p>
+            <p>Now then ſéeing drunkenneſs is ſo offenſive to God, &amp; bringeth ſuch great evils as you have heard upon men in this life, and eternal con<g ref="char:EOLhyphen"/>demnation in the life to come; let us then in the fear of God avoid it, as moſt abominable, evil and pernicious? for every drunkard is the devils Imp, a very limb of Satan. Drunkards rather reſemble bruit beaſts then men: for firſt,
+<pb facs="tcp:32061:13"/>how do their eyes ſtare out of their heads? how do they foam and froth at their mouths like Boars: do not their tongues falter in their mouthes? are not their heads as heavy as mil<g ref="char:EOLhyphen"/>ſtones? and their wits as it were drowned in their cups: Therefore howl ye drunkards, and wéep for the deſtruction that ſhall fall upon you. A Heathen could ſay, he was better born then to be a ſlave to his body. We are Chriſtians, let us ſay, we are better born then to diſhonour and diſorder our bodies by filthy drunkenneſs; we ſhould be better born &amp; better bred then to be ſlaves to our ſenſuall luſts and affections. It is a ſaying of our Tobacconiſts, when any refuſe their ſmoaky practice, (O ſay they) he was never ſo well bred. O that Chriſtians would ſay, when any entice them to be drunk, that they are not ſo ill bred; that they cannot ſo diſgrace their ho<g ref="char:EOLhyphen"/>nourable calling and profeſſion ſo much. You have heard now the evil of this moſt hainous ſin of drunkenneſs, together with the moſt mani<g ref="char:EOLhyphen"/>fold miſeries and calamities that attend it: namely, loſs of credit, good name, and eſtate. &amp; without repentance, eternal loſs both of ſoul and body in hell fire for ever. O then for the Lords ſake, Chriſtians, I beſéech you as you love your own precious ſouls, fly from this ſin as from the devil that will damn you for ever. I beſeech you hate and abhor it; thou art worſe
+<pb facs="tcp:32061:13"/>then a braſt if thou doeſt not: what <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wilt thou indanger the loſs of thy eſtate, and hazard the health of thy body, and the eternal welfare of thy ſoul for a little drink, a little ſwill? O do not venture the loſs of thy ſoul, thy precious &amp; immortal ſoul, for the enjoyment of a little ſwill, to pleaſe thy own baſe ſenſual luſts and affections. O do not drink and quaff away thy ſoul to hell, thou wilt repent thée if thou doeſt, for out of hell there is no redemption. Conſider then betimes in the fear of the Lord, every time thou goeſt to the ſtinking Alehouſe to be drunk thou goeſt on the Devils ſcore, and he will have his penniworths out of thée in hell, thou ſhalt then pay the reckoning to him, both thy ſoul &amp; body too will then be little enough for the devil; he will not do as the Alewives uſe to do, turn you out of doors when you have no mony; no, but he will torment both thy ſoul and body in hell fire for ever.</p>
+            <p>I beſeech you conſider, Alehouſes are the de<g ref="char:EOLhyphen"/>vils Academies, the Nurſeries of all vice and Wickedneſs; the Devil ſends men to the Ale<g ref="char:EOLhyphen"/>houſe to be drunk, and the Alehouſe sends men to Hell to be damned: both the Devil and the Alehouſe are beholding to one another for cu<g ref="char:EOLhyphen"/>ſtomers; the Devil is the beſt friend the Ale<g ref="char:EOLhyphen"/>houſe hath, he ſends them many a drunken cu<g ref="char:EOLhyphen"/>ſtomer; and were it not for the Alehouſe, the
+<pb facs="tcp:32061:14"/>devil might want gueſts in hell. Conſider what St. <hi>Paul</hi> ſaith to the Corinthians, <hi>No drunkard ſhall inherit the Kingdom of Heaven, unleſs he re<g ref="char:EOLhyphen"/>pent.</hi> The good Lord awaken every ſinful drun<g ref="char:EOLhyphen"/>kard out of ſecurity, and bring them to repen<g ref="char:EOLhyphen"/>tance and amendment of life. To conclude in a word, <hi>Walk honeſtly as in the day, as</hi> St. <hi>Paul</hi> ſaith, <hi>not in rioting and drunkeneſs, nor in cham<g ref="char:EOLhyphen"/>bering and wantonneſs; but put ye on the Lord Jeſus Chriſt, and make no proviſion for the fleſh to fulfil the luſts thereof, Rom. 13.13. For the grace of God which brings ſalvation hath appeared unto all men, teaching them to deny ungodlineſs and worldly luſts, and to live ſoberly, righteouſly, and godly in this preſent world; looking for that bleſ<g ref="char:EOLhyphen"/>ſed hope, and the glorious appearance of the great God and our Saviour Juſus Chriſt; Titus 2.13, 14. Whether then ye eat or drink, or whatever elſe ye do, do all to the glory of God:</hi> to whom be glo<g ref="char:EOLhyphen"/>ry and honour for ever and ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:32061:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
